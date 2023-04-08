@@ -1,0 +1,21 @@
+.parent_AboutPokekmon {
+  width: 100%;
+  text-align: center;
+}
+h3 {
+  font-size: 60px;
+  color: #3599c2;
+  margin-top: 40px;
+}
+.ul_for_li_AboutPokemon {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 200px;
+  margin: 80px auto 0;
+}
+.ul_for_li_AboutPokemon li {
+  font-size: 60px;
+  font-weight: 700;
+}
